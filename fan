@@ -1,1 +1,3 @@
-fin is working
+fan is working
+light is working
+
